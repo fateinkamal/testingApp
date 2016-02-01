@@ -1,2 +1,4 @@
 # testingApp
 starter
+hello
+hi
